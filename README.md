@@ -1,4 +1,39 @@
+# Text Analyzer
+
+A React-based web application that allows users to analyze text, perform case-sensitive string replacements, and view real-time statistics. It includes word count, unique word count, and character count, while being fully responsive across different devices.
+
+## Features
+
+- Real-time word count, unique word count, and character count (excluding spaces and punctuation).
+- Case-sensitive string replacement with highlighted replaced words.
+- Responsive design, optimized for mobile, tablet, and desktop devices.
+- Intuitive interface for easy text manipulation and analysis.
+
+## Demo
+
+You can view the live demo [here](https://textanalyzernew.netlify.app/) (if hosted).
+
+## Requirements
+
+- [Node.js](https://nodejs.org/) (v14.x or later)
+- [npm](https://www.npmjs.com/get-npm)
+- [Git](https://git-scm.com/)
+
+## Getting Started
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/text-analyzer.git
+
 # Getting Started with Create React App
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
